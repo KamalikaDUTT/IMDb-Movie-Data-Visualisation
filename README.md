@@ -1,2 +1,2 @@
-# Credit-EDA-Case-Study
-A case study based on concepts learnt in Data Visualition.
+# IMDb-Movie-Data-Visualisation-
+A case study based on concepts learnt in Python for Data Science.
