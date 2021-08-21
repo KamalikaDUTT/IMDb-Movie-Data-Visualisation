@@ -1,2 +1,2 @@
-# IMDb-Movie-Data-Visualisation
-An assignment based on concepts learnt in Python for Data Science
+# Credit-EDA-Case-Study
+A case study based on concepts learnt in Data Visualition.
